@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AllinOne Project**
 
-- 🌱 I have been learning learning **JAVASCRIPT and REACT**
+- 🌱 I have been learning **JAVASCRIPT and REACT**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
